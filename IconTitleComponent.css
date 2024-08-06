@@ -1,0 +1,38 @@
+
+.icon-title-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    padding: 20px;
+  }
+
+  .icon-title-header {
+    display: flex;
+    align-items: center; 
+    margin-bottom: 20px; 
+  }
+  
+  
+  .icon-image {
+    width: 50px; 
+    height: auto; 
+    margin-right: 10px; 
+  }
+  
+  /* Style du titre principal */
+  .title {
+    font-size: 24px; /* Ajustez la taille de la police */
+    font-weight: bold; /* Rend le titre plus gras */
+  }
+  
+  /* Conteneur des sous-titres */
+  .subtitles-container {
+    text-align: center; /* Centre les sous-titres */
+  }
+  
+  /* Style des sous-titres */
+  .subtitle {
+    font-size: 18px; 
+    margin: 10px 0; 
+  }
+  
